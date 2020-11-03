@@ -1,47 +1,42 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"Software Security Engineer",
+    "name":"Irfan Irawan Sukirman, S.Kom",
+    "occupation":"Mobile Developer",
     "description":" currently employed by ",
-    "employer":"Shop Your Own Mortgage",
-    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "employer":"PT. Haruka Evolusi Digital Utama (HarukaEdu)",
+    "jobDescription":"mobile engineer of our product using kotlin for android native and hybrid using flutter framework",
     "image":"profile_pic.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "tbakerx@gmail.com",
-    "phone": "(250) 793-0920",
+    "email": "dadang.kotz@gmail.com",
+    "phone": "(+62) 882-2927-0639",
     "address":{
-      "street":"Pacific Avenue",
-      "city":"Victoria",
-      "state":"British Columbia",
-      "zip": "V9A 1L6"
+      "street":"Jln. Mohammad Toha Gang Aki Ahman No. 111/203D RT 007 RW 005 Kel. Ciseureuh Kec. Regol",
+      "city":"Bandung",
+      "state":"Jawa Barat",
+      "zip": "40255"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "website": "https://google.com",
+    "resumedownload":"https://doc-04-38-docs.googleusercontent.com/docs/securesc/apivi5nie596uj9jsep280ob87tllri6/vqmk89pf51nbb832kclfoocjn7t4bl94/1604371125000/05397850494920015956/05397850494920015956/1hyFoOfRJzI_FtnrFWz8MTJM39tLoFopM?e=download&authuser=0&nonce=ihb8dcvl0p50s&user=05397850494920015956&hash=f70kvrhdr0k0me0ahm95vqcah7554vvu",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/irfan-irawan-sukirman-9096bba7/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbakerx",
+        "url":"https://instagram.com/irfanirawansukirman",
         "className":"fa fa-instagram"
       },
       {
-        "name":"stack-overflow",
-        "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "className":"fa fa-stack-overflow"
+        "name":"twitter",
+        "url":"https://twitter.com/i_i_s_92?s=08",
+        "className":"fa fa-twitter"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/irfanirawansukirman/",
         "className":"fa fa-github"
       }
     ]
