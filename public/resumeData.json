@@ -113,6 +113,11 @@
         "name":"AdonisJS",
         "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
         "image":"ic_adonis.jpg"
+      },
+      {
+        "name":"MySQL",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"ic_mysql.png"
       }
     ]
   },
