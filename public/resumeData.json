@@ -38,6 +38,11 @@
         "name":"github",
         "url":"https://github.com/irfanirawansukirman/",
         "className":"fa fa-github"
+      },
+      {
+        "name":"whatsapp",
+        "url":"https://api.whatsapp.com/send/?phone=6288229270639",
+        "className":"fa fa-whatsapp"
       }
     ]
   },
@@ -114,33 +119,45 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"PWC e-Optio",
         "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"img_pwc.jpg",
+        "url":"https://play.google.com/store/apps/details?id=com.eoptioapps.gits"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Sejalan",
         "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "image":"img_sejalan.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Gogobli",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "image":"img_gogobli.jpg",
         "url":"https://original-thai-food.herokuapp.com/index.html"
       },
       {
-        "title":"Resume Website",
+        "title":"Muslimlife",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"img_muslimlife.jpg",
         "url":"https://github.com/tbakerx/react-resume-template"
       },
       {
-        "title":"Smirkspace",
+        "title":"Tokodistributor - Reseller",
         "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
+        "image":"img_tokdis.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Avanza Xenia Club Indonesia",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"img_axci.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Rubin",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"img_rubin.jpg",
         "url":"http://www.smirkspace.com"
       }
     ]
