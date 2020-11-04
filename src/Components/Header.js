@@ -29,7 +29,8 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            {/* <li><a className="smoothscroll" href="#contact">Contact</a></li> */}
+            <li><a href="https://medium.com/@irfanirawansukirman" target="_blank">Blog</a></li>
+            <li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
          </ul>
       </nav>
 

@@ -6,7 +6,7 @@
     "employer":"PT. Haruka Evolusi Digital Utama (HarukaEdu)",
     "jobDescription":"mobile engineer of our product using kotlin for android native and hybrid using flutter framework",
     "image":"profile_pic.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
+    "bio":"Enthusias about native android using kotlin and hybrid using flutter. Hard worker independently or in team. My hobbies are cycling and tasting food.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "dadang.kotz@gmail.com",
     "phone": "(+62) 882-2927-0639",
@@ -95,33 +95,32 @@
       },
       {
         "name":"Kotlin",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"Kotlin is the second language after java that I use for android application development. When I first started using this language it felt very good. Makes code much more concise and easier to read.",
         "image":"ic_kotlin.png"
       },
       {
-        "name":"SQL Lite",
-        "description":"I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
-        "image":"ic_sqllite.png"
-      },
-
-      {
         "name":"Flutter",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description":"Flutter is an open-source UI software development kit created by Google. I using it to develop applications for Android, iOS, and the web from a single codebase. I think Flutter will be a promising tool in the future.",
         "image":"ic_flutter.png"
       },
       {
+        "name":"SQL Lite",
+        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
+        "image":"ic_sqllite.png"
+      },
+      {
         "name":"AdonisJS",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
         "image":"ic_adonis.jpg"
       },
       {
         "name":"MySQL",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
         "image":"ic_mysql.png"
       },
       {
         "name":"XML",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
         "image":"ic_xml.png"
       }
     ]
