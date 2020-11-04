@@ -64,22 +64,22 @@
     ],
     "work":[
       {
-        "company":"Shop Your Own Mortgage",
-        "title": "Software Security Engineer",
-        "years": "August 2017 - Present",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+        "company":"PT. GITS Indonesia",
+        "title": "Android Developer",
+        "years": "April 2020 - Present",
+        "description": "• Build application features based on the results of sprint planning.\n• Collaborate with PMs, designers, and other teams to work on shared features.\n• Maintain codebase and fixing bugs."
       },
       {
-        "company":"City of Fort St. John",
-        "title":"Utility Maintenance Technician 1 / Labourer ",
-        "years":"April 2014 - September 2017",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "company":"PT. Distributor Indonesia Unggul (Tokodistributor.com)",
+        "title":"Android Developer",
+        "years":"August 2019 - March 2020",
+        "description":"• Creating a code base for tokodistributor.com native android application.\n• Collaborate with PMs, designers, and other teams to work on shared features.\n• Work closely with the internal team to solve problems on technology issues."
       },
       {
-        "company":"School District 60",
-        "title":"IT Technician",
-        "years":"April 2012 - September 2013",
-        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+        "company":"PT. GITS Indonesia",
+        "title": "Android Developer",
+        "years": "January 2016 - June 2019",
+        "description":"• Build application features based on the results of sprint planning.\n• Collaborate with PMs, designers, and other teams to work on shared features.\n• Creating code base for new project.\n• Maintain codebase and fixing bugs.\n• Guiding tim for achive target base on OKR."
       }
     ],
     "skills":[
@@ -110,17 +110,17 @@
       },
       {
         "name":"AdonisJS",
-        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
+        "description":"AdonisJS is a framework that can use for making REST API project. I use it to make small projects. After trying it, it's not that difficult and fast to learn, especially those who want to be able to have skills as a backend developer.",
         "image":"ic_adonis.jpg"
       },
       {
         "name":"MySQL",
-        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
+        "description":"I use it for storing data from backend services. MySQL is one of my most favorite database management systems.",
         "image":"ic_mysql.png"
       },
       {
         "name":"XML",
-        "description":"SqlLite is a tool that mostly I use to store local databases on android applications that I create. I currently use the room to make it easier to use SqLite on Android. ",
+        "description":"XML is one of my most favorite language bacause it's easy to use and on android i use for build UI, manifest configuration, style, theme, and many more.",
         "image":"ic_xml.png"
       }
     ]
